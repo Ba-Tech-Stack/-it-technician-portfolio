@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.env
+/vendor/
+node_modules/
+*.log
+php-app/uploads/cv/*
+php-app/uploads/projects/*
+!php-app/uploads/.htaccess
+!php-app/uploads/projects/.gitkeep
+!php-app/uploads/cv/.gitkeep
